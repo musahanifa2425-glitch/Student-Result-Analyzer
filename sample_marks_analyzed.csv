@@ -1,0 +1,7 @@
+RollNumber,Name,Math,Science,English,History,Total,Average,Percentage,Grade,Result
+R101,Aditi Sharma,88.0,92.0,79.0,85.0,344.0,86.0,86.0,A,PASS
+R102,Rahul Verma,45.0,30.0,55.0,60.0,190.0,47.5,47.5,F,FAIL
+R103,Priya Singh,95.0,89.0,91.0,94.0,369.0,92.25,92.25,A+,PASS
+R104,Karan Mehta,60.0,58.0,32.0,70.0,220.0,55.0,55.0,F,FAIL
+R105,Neha Joshi,38.0,40.0,45.0,39.0,162.0,40.5,40.5,D,PASS
+R106,Musa,98.0,99.0,97.0,80.0,374.0,93.5,93.5,A+,PASS
